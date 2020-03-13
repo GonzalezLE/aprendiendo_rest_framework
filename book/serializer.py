@@ -1,6 +1,6 @@
-""""
-Sirve para hacer que nuestro modelo pueda pasar por https
-""""
+
+#Sirve para hacer que nuestro modelo pueda pasar por https
+
 from .models import Book
 from rest_framework import serializer
 
